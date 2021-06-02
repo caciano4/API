@@ -5,31 +5,31 @@
 
 ## *Description* 
 
-  *Interation (Consuming and Creating API)*
-  *This Project we are Creating and using our API*
-  *Its Simple but very important,Because this is part of the day of developer*
+  *Interation (Consuming and Creating API)* <br />
+  *This Project we are Creating and using our API* <br />
+  *Its Simple but very important,Because this is part of the day of developer* <br />
 
   ## *API* 
   #### Make The API
 
-  [x] Start of Project
-  [x] Install Dependecies
-  [x] Create Route to to access API
-  [x] Serve API
-  [x] Enable the Cors
-  [x] Enable the Nodemon
+  [x] Start of Project <br />
+  [x] Install Dependecies <br />
+  [x] Create Route to to access API <br />
+  [x] Serve API <br />
+  [x] Enable the Cors <br />
+  [x] Enable the Nodemon <br />
 
   ## *Front-End*
   #### Consume API
 
-  [x] Use Fetch to Consume API
-  [x] Use Async Await
-  [x] Use Try And Catch
-  [x] Show the answer in screen
+  [x] Use Fetch to Consume API <br />
+  [x] Use Async Await <br />
+  [x] Use Try And Catch <br />
+  [x] Show the answer in screen <br />
 
   ## *Back-End*
   #### Consume API
 
-  [x] build the Server
-  [x] Take API of JsonPlaceHolder
-  [x] Use Axios
+  [x] build the Server <br />
+  [x] Take API of JsonPlaceHolder <br />
+  [x] Use Axios <br />
